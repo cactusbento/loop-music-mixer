@@ -1,0 +1,10 @@
+.{
+	.name = "sizSound",
+	.version = "0.0.1",
+	.dependencies = .{
+		.libinput = .{
+			.url = "https://github.com/cactusbento/libinput-zig/archive/8f62f9805cf5e0d1445cdfdbfb75f3617cf99fb4.tar.gz",
+			.hash = "122040d64c1237509b376c310ba167a54b630f8f13ceb3d1ce80b595e7adfd575036",
+		},
+	},
+}
